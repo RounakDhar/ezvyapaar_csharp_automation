@@ -1,0 +1,162 @@
+﻿{
+  "products": [
+    {
+      "id": 1,
+      "name": "Smartphone X1",
+      "description": "Latest flagship smartphone with advanced camera system",
+      "price": 54999.00,
+      "category": "Electronics",
+      "inStock": true,
+      "rating": 4.8,
+      "imageUrl": "/images/smartphone_x1.jpg",
+      "specifications": {
+        "processor": "Snapdragon 8 Gen 2",
+        "ram": "12GB",
+        "storage": "256GB",
+        "camera": "108MP + 48MP + 12MP",
+        "battery": "5000mAh",
+        "display": "6.7 inch AMOLED"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Bluetooth Headphones",
+      "description": "Wireless noise-canceling headphones with long battery life",
+      "price": 7999.00,
+      "category": "Audio",
+      "inStock": true,
+      "rating": 4.6,
+      "imageUrl": "/images/bluetooth_headphones.jpg",
+      "specifications": {
+        "type": "Over-ear",
+        "batteryLife": "30 hours",
+        "connectivity": "Bluetooth 5.2",
+        "noiseCancellation": "Active Noise Cancellation",
+        "weight": "250g"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Laptop Pro 15",
+      "description": "Professional laptop for creators and developers",
+      "price": 89999.00,
+      "category": "Electronics",
+      "inStock": true,
+      "rating": 4.7,
+      "imageUrl": "/images/laptop_pro.jpg",
+      "specifications": {
+        "processor": "Intel Core i9",
+        "ram": "32GB",
+        "storage": "1TB SSD",
+        "display": "15.6 inch Retina",
+        "graphics": "NVIDIA RTX 4070",
+        "batteryLife": "10 hours"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Smart Watch Series 7",
+      "description": "Advanced smartwatch with health monitoring features",
+      "price": 19999.00,
+      "category": "Wearables",
+      "inStock": true,
+      "rating": 4.5,
+      "imageUrl": "/images/smartwatch.jpg",
+      "specifications": {
+        "display": "1.78 inch AMOLED",
+        "sensors": "Heart rate, SpO2, ECG",
+        "batteryLife": "48 hours",
+        "waterResistant": "50m",
+        "connectivity": "WiFi, Bluetooth, LTE"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Power Bank 10000mAh",
+      "description": "Fast charging portable power bank",
+      "price": 1499.00,
+      "category": "Accessories",
+      "inStock": true,
+      "rating": 4.3,
+      "imageUrl": "/images/powerbank.jpg",
+      "specifications": {
+        "capacity": "10000mAh",
+        "ports": "USB-C, USB-A",
+        "fastCharging": "18W",
+        "weight": "200g",
+        "size": "Pocket-sized"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Wireless Earbuds",
+      "description": "True wireless earbuds with immersive sound",
+      "price": 4999.00,
+      "category": "Audio",
+      "inStock": true,
+      "rating": 4.4,
+      "imageUrl": "/images/wireless_earbuds.jpg",
+      "specifications": {
+        "batteryLife": "8 hours + 24 hours case",
+        "connectivity": "Bluetooth 5.2",
+        "waterResistant": "IPX4",
+        "noiseCancellation": "Passive",
+        "weight": "5g per earbud"
+      }
+    },
+    {
+      "id": 7,
+      "name": "4K Smart TV 55\"",
+      "description": "Ultra HD smart television with voice control",
+      "price": 49999.00,
+      "category": "Electronics",
+      "inStock": false,
+      "rating": 4.6,
+      "imageUrl": "/images/smart_tv.jpg",
+      "specifications": {
+        "resolution": "3840x2160",
+        "displayType": "QLED",
+        "smartFeatures": "Voice Assistant, App Store",
+        "ports": "HDMI 2.1 x3, USB x2",
+        "audio": "Dolby Atmos"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Digital Camera DSLR",
+      "description": "Professional DSLR camera for photography enthusiasts",
+      "price": 64999.00,
+      "category": "Photography",
+      "inStock": true,
+      "rating": 4.9,
+      "imageUrl": "/images/dslr_camera.jpg",
+      "specifications": {
+        "megapixels": "24.1MP",
+        "sensorType": "APS-C CMOS",
+        "iso": "100-25600",
+        "shutterSpeed": "1/4000 to 30s",
+        "video": "4K 30fps"
+      }
+    }
+  ],
+  "coupons": [
+    {
+      "code": "SAVE10",
+      "discount": 10,
+      "minPurchase": 1000,
+      "validUntil": "2025-12-31"
+    },
+    {
+      "code": "SAVE20",
+      "discount": 20,
+      "minPurchase": 10000,
+      "validUntil": "2025-12-31"
+    },
+    {
+      "code": "WEEKEND25",
+      "discount": 25,
+      "minPurchase": 15000,
+      "validUntil": "2025-12-31"
+    }
+  ]
+}

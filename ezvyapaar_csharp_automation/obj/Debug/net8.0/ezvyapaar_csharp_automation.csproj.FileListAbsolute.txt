@@ -1,0 +1,5 @@
+C:\Users\USER\source\repos\ezvyapaar_csharp_automation\ezvyapaar_csharp_automation\obj\Debug\net8.0\ezvyapaar_csharp_automation.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\ezvyapaar_csharp_automation\ezvyapaar_csharp_automation\obj\Debug\net8.0\ezvyapaar_csharp_automation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\ezvyapaar_csharp_automation\ezvyapaar_csharp_automation\obj\Debug\net8.0\ezvyapaar_csharp_automation.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\ezvyapaar_csharp_automation\ezvyapaar_csharp_automation\obj\Debug\net8.0\ezvyapaar_csharp_automation.AssemblyInfo.cs
+C:\Users\USER\source\repos\ezvyapaar_csharp_automation\ezvyapaar_csharp_automation\obj\Debug\net8.0\ezvyapaar_csharp_automation.csproj.CoreCompileInputs.cache

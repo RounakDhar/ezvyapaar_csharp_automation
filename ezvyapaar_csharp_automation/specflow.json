@@ -1,0 +1,22 @@
+﻿
+{
+  "bindingCulture": {
+    "language": "en-us"
+  },
+  "language": {
+    "feature": "en"
+  },
+  "plugins": [
+    {
+      "name": "SpecFlow.NUnit",
+      "type": "Runtime"
+    }
+  ],
+  "stepAssemblies": [],
+  "runtime": {
+    "missingOrPendingStepsOutcome": "Error",
+    "testThreadCount": 4,
+    "parallelTestThreads": true
+  }
+}
+

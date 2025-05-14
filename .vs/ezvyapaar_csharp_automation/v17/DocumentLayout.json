@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\ezvyapaar_csharp_automation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5BAC2785-E94F-43F3-9950-43B2E9660804}|ezvyapaar_csharp_automation\\ezvyapaar_csharp_automation.csproj|c:\\users\\user\\source\\repos\\ezvyapaar_csharp_automation\\ezvyapaar_csharp_automation\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{5BAC2785-E94F-43F3-9950-43B2E9660804}|ezvyapaar_csharp_automation\\ezvyapaar_csharp_automation.csproj|solutionrelative:ezvyapaar_csharp_automation\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\ezvyapaar_csharp_automation\\ezvyapaar_csharp_automation\\README.md",
+              "RelativeDocumentMoniker": "ezvyapaar_csharp_automation\\README.md",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\ezvyapaar_csharp_automation\\ezvyapaar_csharp_automation\\README.md",
+              "RelativeToolTip": "ezvyapaar_csharp_automation\\README.md",
+              "ViewState": "AQIAAM8AAAAAAAAAAAAAANwAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-05-08T13:00:43.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
